@@ -54,6 +54,10 @@ Choose option 6 and 7 from the menu to save expenses to a file or load saved dat
 
 Choose option 8 from the menu to save expenses and exit the application.
 
+## Screenshot
+![Screenshot from 2025-05-07 17-38-02](https://github.com/user-attachments/assets/7d52e51c-3872-4a93-9db4-c936cedd9cd8)
+![Screenshot from 2025-05-07 17-35-30](https://github.com/user-attachments/assets/94e8fc45-a073-4098-a949-0dc6474df2fb)
+
 
 ## Conclusion
 
